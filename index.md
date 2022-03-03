@@ -18,4 +18,4 @@ layout: default
 # Abstract or executive summary
 
 
-![](census_worker.jpg "Census Worker 1920s")
+![](scooter.pdf "It's a dog!")

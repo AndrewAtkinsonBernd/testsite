@@ -5,6 +5,8 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
+![](Scooter.pdf "It's a dog!")
+
 # Project Name
 
 ## The Team
@@ -18,4 +20,3 @@ layout: default
 # Abstract or executive summary
 
 
-![](Scooter.pdf "It's a dog!")

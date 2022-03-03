@@ -18,4 +18,4 @@ layout: default
 # Abstract or executive summary
 
 
-![](scooter.pdf "It's a dog!")
+![](Scooter.pdf "It's a dog!")
